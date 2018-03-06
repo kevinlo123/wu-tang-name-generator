@@ -1,21 +1,3 @@
-//**What can the user do?
-//answer 5 questions
-//ask first name
-//ask last name
-//ask favourite color
-//ask what city they were born in
-//ask them if what their favorite food is
-
-//generate names
-//generate RZA
-//generate GZA
-//generate Ol' Dirty Bastard
-//generate Inspecta Deck
-//generate Raekwon
-//generate U-God
-//generate Ghostface Killah
-//generate Method Man
-//create function to take in all of the answers
 document.getElementById('gen').onclick=function () {
   var random = Math.random()
   var q1 = document.getElementById('q1').value
